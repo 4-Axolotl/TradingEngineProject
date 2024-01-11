@@ -1,0 +1,1 @@
+A repository to save my progress while I'm learning how to setup a trading engine
