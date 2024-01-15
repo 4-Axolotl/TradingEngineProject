@@ -45,3 +45,6 @@ D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\obj\Debug\
 D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\obj\Debug\net8.0\TradingEngineServer.Core.pdb
 D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\obj\Debug\net8.0\TradingEngineServerCS.genruntimeconfig.cache
 D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\obj\Debug\net8.0\ref\TradingEngineServer.Core.dll
+D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\obj\Debug\net8.0\TradingEngineServerCS.sourcelink.json
+D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\bin\Debug\net8.0\TradingEngineServer.Logging.dll
+D:\Repos\Trading Engine C#\TradingEngineProject\TradingEngineServerCS\bin\Debug\net8.0\TradingEngineServer.Logging.pdb

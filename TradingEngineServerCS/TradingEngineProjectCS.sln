@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingEngineServerCS", "TradingEngineServerCS.csproj", "{A5773674-4FA0-487C-88B8-0787C2F2462B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingCS", "..\LoggingCS\LoggingCS.csproj", "{479BCB4F-1A8B-4C55-8180-7D6DF711F02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5773674-4FA0-487C-88B8-0787C2F2462B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5773674-4FA0-487C-88B8-0787C2F2462B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5773674-4FA0-487C-88B8-0787C2F2462B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5773674-4FA0-487C-88B8-0787C2F2462B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479BCB4F-1A8B-4C55-8180-7D6DF711F02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479BCB4F-1A8B-4C55-8180-7D6DF711F02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479BCB4F-1A8B-4C55-8180-7D6DF711F02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479BCB4F-1A8B-4C55-8180-7D6DF711F02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5641E52-9844-4AD4-A7BD-424A28D33296}
+	EndGlobalSection
+EndGlobal

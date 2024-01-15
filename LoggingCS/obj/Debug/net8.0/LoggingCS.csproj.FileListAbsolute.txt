@@ -1,0 +1,13 @@
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\bin\Debug\net8.0\TradingEngineServer.Logging.deps.json
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\bin\Debug\net8.0\TradingEngineServer.Logging.dll
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\bin\Debug\net8.0\TradingEngineServer.Logging.pdb
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.csproj.AssemblyReference.cache
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.AssemblyInfoInputs.cache
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.AssemblyInfo.cs
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.csproj.CoreCompileInputs.cache
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\LoggingCS.sourcelink.json
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\TradingEngineServer.Logging.dll
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\refint\TradingEngineServer.Logging.dll
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\TradingEngineServer.Logging.pdb
+D:\Repos\Trading Engine C#\TradingEngineProject\LoggingCS\obj\Debug\net8.0\ref\TradingEngineServer.Logging.dll
